@@ -1,5 +1,4 @@
 {
-    "version": "1.3",
     "lastUpdated": "2025-10-29",
     "tags": {
         "Magic System": {
@@ -589,6 +588,42 @@
                         "Little Sister(s)",
                         "Younger Female Sibling(s)"
                     ]
+                },
+                {
+                    "name": "Aristocracy",
+                    "description": "The protagonist originates from a noble or high-status family.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Noble Family",
+                        "Highborn"
+                    ]
+                },
+                {
+                    "name": "Family",
+                    "description": "The protagonist's familial ties and relationships play a role in their story.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Relatives",
+                        "Household"
+                    ]
+                },
+                {
+                    "name": "Mysterious Past",
+                    "description": "The character's previous life or origins are secret or unclear, influencing the plot.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Hidden History",
+                        "Unknown Origins"
+                    ]
+                },
+                {
+                    "name": "Secret Identity",
+                    "description": "The character hides their true identity from others for plot or protection.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Hidden Persona",
+                        "Disguised Character"
+                    ]
                 }
             ]
         },
@@ -1149,6 +1184,87 @@
                     "synonyms": [
                         "Neurodivergent MC"
                     ]
+                },
+                {
+                    "name": "Antihero Protagonist",
+                    "description": "The main character lacks traditional heroic qualities and may act morally ambiguously.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Morally Grey Protagonist",
+                        "Unconventional Hero"
+                    ]
+                },
+                {
+                    "name": "Power Couple",
+                    "description": "The protagonist is part of a strong romantic duo who grow and succeed together.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Dynamic Duo",
+                        "Strong Pair"
+                    ]
+                },
+                {
+                    "name": "Character Growth",
+                    "description": "The protagonist experiences significant personal or skill development over the story.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Development Arc",
+                        "Progressive Growth"
+                    ]
+                },
+                {
+                    "name": "Fast Learner",
+                    "description": "The protagonist quickly acquires skills or knowledge.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Quick Study",
+                        "Rapid Learner"
+                    ]
+                },
+                {
+                    "name": "God Protagonist",
+                    "description": "The main character possesses god-like powers or divine influence.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Divine Hero",
+                        "Immortal Protagonist"
+                    ]
+                },
+                {
+                    "name": "Hard-Working Protagonist",
+                    "description": "The main character achieves success through persistence and effort.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Diligent MC",
+                        "Industrious Hero"
+                    ]
+                },
+                {
+                    "name": "Cunning Protagonist",
+                    "description": "The main character uses intelligence, strategy, and cleverness to overcome challenges.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Strategic Hero",
+                        "Shrewd MC"
+                    ]
+                },
+                {
+                    "name": "Righteous Protagonist",
+                    "description": "The protagonist acts morally upright, often standing for justice and ethics.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Virtuous Hero",
+                        "Honorable MC"
+                    ]
+                },
+                {
+                    "name": "Slow Growth at Start",
+                    "description": "The protagonist begins with weaker abilities or skills but grows gradually over time.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Gradual Progress",
+                        "Late Bloomer"
+                    ]
                 }
             ]
         },
@@ -1603,6 +1719,15 @@
                         "Dominant MC",
                         "Top Role"
                     ]
+                },
+                {
+                    "name": "Familial Love",
+                    "description": "Exploration of strong emotional bonds and affection between family members.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Family Affection",
+                        "Kinship Love"
+                    ]
                 }
             ]
         },
@@ -2046,6 +2171,24 @@
                         "Dimensional Travel",
                         "Alternate Realities"
                     ]
+                },
+                {
+                    "name": "Fantasy World",
+                    "description": "The story is set in a magical or fantastical universe.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Magical Realm",
+                        "Imaginary Universe"
+                    ]
+                },
+                {
+                    "name": "Pirates",
+                    "description": "The setting includes pirate factions, seafaring adventures, or maritime societies.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Sea Raiders",
+                        "Buccaneers"
+                    ]
                 }
             ]
         },
@@ -2416,6 +2559,87 @@
                     "synonyms": [
                         "Hermaphrodite Character",
                         "Dual-gendered MC"
+                    ]
+                },
+                {
+                    "name": "Elves",
+                    "description": "Magical humanoid beings with enhanced senses, longevity, or mystical abilities.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Elf",
+                        "Elven Race"
+                    ]
+                },
+                {
+                    "name": "Fantasy Creatures",
+                    "description": "Non-human or magical beings populating the story world.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Mythical Beings",
+                        "Magical Creatures"
+                    ]
+                },
+                {
+                    "name": "Shapeshifters",
+                    "description": "Beings capable of changing their physical form or appearance.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Transformers",
+                        "Form-Changers"
+                    ]
+                },
+                {
+                    "name": "Souls",
+                    "description": "Spiritual entities or essences with influence or power.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Spirit Essence",
+                        "Life Force"
+                    ]
+                },
+                {
+                    "name": "Spirits",
+                    "description": "Supernatural entities that may assist, haunt, or influence characters.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Ghosts",
+                        "Specters"
+                    ]
+                },
+                {
+                    "name": "Pets",
+                    "description": "Domesticated or companion animals that play roles in the story.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Companion Animals",
+                        "Animal Friends"
+                    ]
+                },
+                {
+                    "name": "Dolls/Puppets",
+                    "description": "Artificial beings or constructs that may act autonomously or serve characters.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Mannequins",
+                        "Animated Toys"
+                    ]
+                },
+                {
+                    "name": "Puppeteers",
+                    "description": "Characters who control dolls, puppets, or constructs through skill or magic.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Controller of Puppets",
+                        "Master of Dolls"
+                    ]
+                },
+                {
+                    "name": "Saints",
+                    "description": "Holy or sacred beings with exceptional moral or spiritual authority.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Holy Figures",
+                        "Divine Beings"
                     ]
                 }
             ]
@@ -2981,6 +3205,15 @@
                         "Dark Cults",
                         "Forbidden Faiths"
                     ]
+                },
+                {
+                    "name": "Strategic Battles",
+                    "description": "Groups or factions engage in carefully planned military or tactical conflicts.",
+                    "type": "Organizations & Factions",
+                    "synonyms": [
+                        "Tactical Warfare",
+                        "Battle Planning"
+                    ]
                 }
             ]
         },
@@ -3313,6 +3546,69 @@
                     "synonyms": [
                         "Mental Illness",
                         "Psychological Themes"
+                    ]
+                },
+                {
+                    "name": "Survival",
+                    "description": "Stories where characters face life-or-death situations or must endure harsh conditions.",
+                    "type": "Tone & Themes",
+                    "synonyms": [
+                        "Endurance",
+                        "Life-or-Death Challenges"
+                    ]
+                },
+                {
+                    "name": "Misunderstandings",
+                    "description": "Conflict or tension arises from miscommunication or mistaken beliefs.",
+                    "type": "Tone & Themes",
+                    "synonyms": [
+                        "Miscommunication",
+                        "Misperceptions"
+                    ]
+                },
+                {
+                    "name": "Murders",
+                    "description": "Stories involve acts of killing or the presence of murder as a plot element.",
+                    "type": "Tone & Themes",
+                    "synonyms": [
+                        "Homicide",
+                        "Killings"
+                    ]
+                },
+                {
+                    "name": "Mystery Solving",
+                    "description": "Characters investigate and solve puzzles, crimes, or unexplained events.",
+                    "type": "Tone & Themes",
+                    "synonyms": [
+                        "Detective Work",
+                        "Case Investigation"
+                    ]
+                },
+                {
+                    "name": "Nightmares",
+                    "description": "Recurring visions, fears, or disturbing dream sequences affecting the story.",
+                    "type": "Tone & Themes",
+                    "synonyms": [
+                        "Bad Dreams",
+                        "Horrific Visions"
+                    ]
+                },
+                {
+                    "name": "Thriller",
+                    "description": "The story maintains suspense, tension, and excitement, often with danger or mystery.",
+                    "type": "Tone & Themes",
+                    "synonyms": [
+                        "Suspense",
+                        "Edge-of-Your-Seat Story"
+                    ]
+                },
+                {
+                    "name": "Trickster",
+                    "description": "Themes or characters involving cunning, deception, or playful mischief.",
+                    "type": "Tone & Themes",
+                    "synonyms": [
+                        "Deceptive Character",
+                        "Prankster"
                     ]
                 }
             ]
@@ -4233,6 +4529,15 @@
                         "Rapid Fortune",
                         "Unexpected Riches"
                     ]
+                },
+                {
+                    "name": "Secrets",
+                    "description": "Hidden truths or confidential information that drive the plot.",
+                    "type": "Plot Devices",
+                    "synonyms": [
+                        "Hidden Information",
+                        "Confidential Knowledge"
+                    ]
                 }
             ]
         },
@@ -4567,6 +4872,24 @@
                     "synonyms": [
                         "Side Job",
                         "Casual Work"
+                    ]
+                },
+                {
+                    "name": "Detectives",
+                    "description": "Characters who investigate and solve mysteries or crimes.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Investigators",
+                        "Sleuths"
+                    ]
+                },
+                {
+                    "name": "Cooking",
+                    "description": "Characters engage in food preparation or culinary arts.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Chef Skills",
+                        "Culinary Talent"
                     ]
                 }
             ]
@@ -5096,6 +5419,15 @@
                     "synonyms": [
                         "Single Chapter",
                         "Standalone Story"
+                    ]
+                },
+                {
+                    "name": "Wealthy Characters",
+                    "description": "Characters are of high social or financial status, often impacting the story.",
+                    "type": "Publication & Format",
+                    "synonyms": [
+                        "Rich Characters",
+                        "High-Class Characters"
                     ]
                 }
             ]
