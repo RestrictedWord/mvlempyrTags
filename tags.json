@@ -1265,6 +1265,24 @@
                         "Gradual Progress",
                         "Late Bloomer"
                     ]
+                },
+                {
+                    "name": "Eidetic Memory",
+                    "description": "The protagonist has an exceptional ability to recall detailed information perfectly.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Photographic Memory",
+                        "Perfect Recall"
+                    ]
+                },
+                {
+                    "name": "Manipulative Characters",
+                    "description": "The protagonist or key characters skillfully influence or control others.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Scheming Characters",
+                        "Deceptive Characters"
+                    ]
                 }
             ]
         },
@@ -2188,6 +2206,15 @@
                     "synonyms": [
                         "Sea Raiders",
                         "Buccaneers"
+                    ]
+                },
+                {
+                    "name": "Mythology",
+                    "description": "Legends, myths, and divine lore form a part of the world-building.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Legendary Lore",
+                        "Mythical Elements"
                     ]
                 }
             ]
