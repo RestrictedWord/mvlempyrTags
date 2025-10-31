@@ -2320,15 +2320,6 @@
             "description": "The environment or world where the story takes place, including eras, locations, and dimensions.",
             "tags": [
                 {
-                    "name": "Academy",
-                    "description": "A school or institution where characters learn, train, or grow.",
-                    "type": "World & Setting",
-                    "synonyms": [
-                        "School",
-                        "Training Institution"
-                    ]
-                },
-                {
                     "name": "All-Girls School",
                     "description": "An educational institution exclusively for female characters.",
                     "type": "World & Setting",
@@ -4657,14 +4648,6 @@
                     ]
                 },
                 {
-                    "name": "C*nnilingus",
-                    "description": "Oral sexual activity performed on a female.",
-                    "type": "Adult/Explicit",
-                    "synonyms": [
-                        "Oral Sex"
-                    ]
-                },
-                {
                     "name": "F*llatio",
                     "description": "Oral sexual activity performed on a male.",
                     "type": "Adult/Explicit",
@@ -4678,14 +4661,6 @@
                     "type": "Adult/Explicit",
                     "synonyms": [
                         "Manual Sex"
-                    ]
-                },
-                {
-                    "name": "M*sturbation",
-                    "description": "Self-stimulation for sexual pleasure.",
-                    "type": "Adult/Explicit",
-                    "synonyms": [
-                        "Solo Sex"
                     ]
                 },
                 {
@@ -4892,15 +4867,6 @@
                     "synonyms": [
                         "Hermaphrodite Characters",
                         "Dual-Gendered Explicit"
-                    ]
-                },
-                {
-                    "name": "M*sturbation",
-                    "description": "Explicit depictions of characters engaging in self-stimulation.",
-                    "type": "Adult/Explicit",
-                    "synonyms": [
-                        "Self-Pleasure",
-                        "Solo Sexual Activity"
                     ]
                 },
                 {
