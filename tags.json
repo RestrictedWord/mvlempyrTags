@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2025-10-29",
+    "lastUpdated": "2025-10-31",
     "tags": {
         "Magic System": {
             "description": "Covers types of magic, cultivation methods, mystical techniques, and supernatural powers.",
@@ -353,7 +353,45 @@
                         "Relics",
                         "Enchanted Items"
                     ]
-                }
+                },
+                [
+                    {
+                        "name": "Demonic Cultivation Technique",
+                        "description": "A cultivation method that draws upon demonic or dark energies to gain power.",
+                        "type": "Magic System",
+                        "synonyms": [
+                            "Dark Cultivation",
+                            "Evil Cultivation"
+                        ]
+                    },
+                    {
+                        "name": "Daoism",
+                        "description": "A spiritual and philosophical system influencing cultivation and balance in mystical arts.",
+                        "type": "Magic System",
+                        "synonyms": [
+                            "Taoism",
+                            "Way of the Dao"
+                        ]
+                    },
+                    {
+                        "name": "Feng Shui",
+                        "description": "The manipulation of natural energies and environments to create harmony or enhance magical effects.",
+                        "type": "Magic System",
+                        "synonyms": [
+                            "Geomancy",
+                            "Qi Flow"
+                        ]
+                    },
+                    {
+                        "name": "Magic Formations",
+                        "description": "Magical or energy-based arrays that serve as barriers, traps, or enhancement structures.",
+                        "type": "Magic System",
+                        "synonyms": [
+                            "Magical Arrays",
+                            "Spirit Formations"
+                        ]
+                    }
+                ]
             ]
         },
         "Character Background": {
@@ -623,6 +661,150 @@
                     "synonyms": [
                         "Hidden Persona",
                         "Disguised Character"
+                    ]
+                },
+                {
+                    "name": "Brother Complex",
+                    "description": "A strong emotional attachment or obsession toward one’s brother.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Onii Complex",
+                        "Sibling Obsession"
+                    ]
+                },
+                {
+                    "name": "Child Abuse",
+                    "description": "The protagonist has experienced or witnessed abuse during childhood.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Abused as a Child",
+                        "Traumatic Childhood"
+                    ]
+                },
+                {
+                    "name": "Childcare",
+                    "description": "The story involves raising or caring for a child, often central to the protagonist’s life.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Caretaker",
+                        "Parenting"
+                    ]
+                },
+                {
+                    "name": "Childhood Friends",
+                    "description": "Characters who have known each other since childhood share significant bonds.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Longtime Friends",
+                        "Past Friendship"
+                    ]
+                },
+                {
+                    "name": "Complex Family Relationships",
+                    "description": "Features families with complicated dynamics such as rivalries, favoritism, or estrangement.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Dysfunctional Family",
+                        "Complicated Family Ties"
+                    ]
+                },
+                {
+                    "name": "Dead Protagonist",
+                    "description": "The main character is deceased or has died and returned to life.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Reincarnated Protagonist",
+                        "Posthumous Hero"
+                    ]
+                },
+                {
+                    "name": "Doting Older Siblings",
+                    "description": "Older siblings who are excessively affectionate or protective toward the protagonist.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Protective Sibling",
+                        "Affectionate Brother/Sister"
+                    ]
+                },
+                {
+                    "name": "Doting Parents",
+                    "description": "Parents who show extreme affection or favoritism toward the protagonist.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Loving Parents",
+                        "Overprotective Parents"
+                    ]
+                },
+                {
+                    "name": "Fallen Nobility",
+                    "description": "A protagonist or family that has lost their noble status or power.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Disgraced Noble",
+                        "Former Aristocrat"
+                    ]
+                },
+                {
+                    "name": "Famous Parents",
+                    "description": "The protagonist is the child of well-known or influential figures.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Celebrity Parents",
+                        "Renowned Family"
+                    ]
+                },
+                {
+                    "name": "Family Business",
+                    "description": "The protagonist works in or inherits a business operated by their family.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Inherited Business",
+                        "Family Enterprise"
+                    ]
+                },
+                {
+                    "name": "Family Conflict",
+                    "description": "The protagonist experiences internal disputes, betrayal, or tension within the family.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Family Drama",
+                        "Intra-family Conflict"
+                    ]
+                },
+                {
+                    "name": "Famous Parents",
+                    "description": "Protagonist has influential or well-known parents, shaping expectations or opportunities.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Celebrity Parents",
+                        "Notable Family"
+                    ]
+                },
+                {
+                    "name": "Poor Protagonist",
+                    "description": "The main character begins in poverty or faces financial struggles.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Low-Class Protagonist",
+                        "Broke MC"
+                    ]
+                },
+                {
+                    "name": "Rich to Poor",
+                    "description": "A protagonist who once lived in wealth but has fallen into poverty.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Lost Fortune",
+                        "Disgraced Wealthy"
+                    ]
+                },
+                {
+                    "name": "Strong Background",
+                    "description": "The protagonist comes from a powerful or influential family or organization.",
+                    "type": "Character Background",
+                    "synonyms": [
+                        "Powerful Family",
+                        "Influential Lineage"
                     ]
                 }
             ]
@@ -1283,6 +1465,213 @@
                         "Scheming Characters",
                         "Deceptive Characters"
                     ]
+                },
+                {
+                    "name": "Aggressive Characters",
+                    "description": "Protagonists or key characters with a confrontational or forceful personality.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Hot-headed Characters",
+                        "Fierce Characters"
+                    ]
+                },
+                {
+                    "name": "Anti-Heo",
+                    "description": "Protagonists who deliberately oppose or subvert traditional hero behavior.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Anti-Hero",
+                        "Reluctant Hero"
+                    ]
+                },
+                {
+                    "name": "Bisexual Protagonist",
+                    "description": "The main character is attracted to more than one gender.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Bi MC",
+                        "Pansexual Protagonist"
+                    ]
+                },
+                {
+                    "name": "Childish Protagonist",
+                    "description": "The main character displays immature or naive behavior.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Naive MC",
+                        "Inexperienced Protagonist"
+                    ]
+                },
+                {
+                    "name": "Cunning Protagonist",
+                    "description": "A protagonist with cleverness and strategic thinking, often outsmarting others.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Deceptive Protagonist",
+                        "Strategic MC"
+                    ]
+                },
+                {
+                    "name": "Cute Protagonist",
+                    "description": "A main character characterized by charm, innocence, or endearing qualities.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Adorable MC",
+                        "Charming Protagonist"
+                    ]
+                },
+                {
+                    "name": "Easy Going Life",
+                    "description": "Protagonist maintains a relaxed, carefree, or laid-back lifestyle.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Laid-back MC",
+                        "Chill Protagonist"
+                    ]
+                },
+                {
+                    "name": "Evil Protagonist",
+                    "description": "The main character has malevolent traits or intentionally harmful goals.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Villainous MC",
+                        "Dark Hero"
+                    ]
+                },
+                {
+                    "name": "Fearless Protagonist",
+                    "description": "The main character demonstrates bravery and fearlessness in dangerous situations.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Bold MC",
+                        "Dauntless Protagonist"
+                    ]
+                },
+                {
+                    "name": "Fat Protagonist",
+                    "description": "The main character is overweight or has a larger body type.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Overweight MC",
+                        "Plus-Size Protagonist"
+                    ]
+                },
+                {
+                    "name": "Fat to Fit",
+                    "description": "The protagonist undergoes a transformation from being overweight to physically fit.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Weight Loss Journey",
+                        "Fitness Transformation"
+                    ]
+                },
+                {
+                    "name": "Helpful Protagonist",
+                    "description": "A character who assists others and often puts others’ needs first.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Supportive MC",
+                        "Kind-Hearted Protagonist"
+                    ]
+                },
+                {
+                    "name": "Hikikomori",
+                    "description": "A protagonist who isolates themselves socially, often avoiding outside interaction.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Shut-in MC",
+                        "Recluse Protagonist"
+                    ]
+                },
+                {
+                    "name": "Jack of All Trades",
+                    "description": "The protagonist is skilled in many areas but not necessarily a master in one.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Versatile MC",
+                        "Multi-talented Protagonist"
+                    ]
+                },
+                {
+                    "name": "Lack of Common Sense",
+                    "description": "The protagonist often makes decisions that seem illogical or naive.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Naive MC",
+                        "Clueless Protagonist"
+                    ]
+                },
+                {
+                    "name": "Loner Protagonist",
+                    "description": "The main character prefers solitude or is socially isolated.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Solo MC",
+                        "Independent Protagonist"
+                    ]
+                },
+                {
+                    "name": "Mob Protagonist",
+                    "description": "A character who starts as ordinary or powerless but gains abilities rapidly or unpredictably.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Ordinary MC",
+                        "Average Hero"
+                    ]
+                },
+                {
+                    "name": "Narcissistic Protagonist",
+                    "description": "The main character has an inflated sense of self-importance or vanity.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Egotistical MC",
+                        "Self-Absorbed Protagonist"
+                    ]
+                },
+                {
+                    "name": "Protagonist Strong from the Start",
+                    "description": "The main character begins the story already highly skilled or powerful.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Overpowered MC",
+                        "Pre-established Strength"
+                    ]
+                },
+                {
+                    "name": "Quirky Characters",
+                    "description": "Protagonists with odd, unusual, or eccentric behaviors and traits.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Eccentric MC",
+                        "Unconventional Protagonist"
+                    ]
+                },
+                {
+                    "name": "Shy Characters",
+                    "description": "The protagonist is timid, introverted, or socially anxious.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Timid MC",
+                        "Reserved Protagonist"
+                    ]
+                },
+                {
+                    "name": "Tsundere",
+                    "description": "A character who alternates between harshness and affection toward others.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Hot-and-Cold Character",
+                        "Mixed Emotions MC"
+                    ]
+                },
+                {
+                    "name": "Yandere",
+                    "description": "A character who is obsessively loving but can become violent toward others.",
+                    "type": "Protagonist Traits",
+                    "synonyms": [
+                        "Obsessive Lover",
+                        "Dangerously Loving MC"
+                    ]
                 }
             ]
         },
@@ -1745,6 +2134,186 @@
                     "synonyms": [
                         "Family Affection",
                         "Kinship Love"
+                    ]
+                },
+                {
+                    "name": "Adultery",
+                    "description": "A romantic or sexual relationship occurs outside of a committed partnership.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Cheating",
+                        "Infidelity"
+                    ]
+                },
+                {
+                    "name": "Affair",
+                    "description": "A secret or illicit romantic involvement between characters.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Secret Romance",
+                        "Extramarital Relationship"
+                    ]
+                },
+                {
+                    "name": "Bisexual Protagonist",
+                    "description": "The main character is attracted to more than one gender.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Bi MC",
+                        "Pansexual Protagonist"
+                    ]
+                },
+                {
+                    "name": "Brother Complex",
+                    "description": "A romantic or affectionate obsession toward a sibling.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Onii Complex",
+                        "Sibling Obsession"
+                    ]
+                },
+                {
+                    "name": "Childhood Friends",
+                    "description": "Romantic or close relationships develop between characters who have known each other since childhood.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Past Friends",
+                        "Longtime Bond"
+                    ]
+                },
+                {
+                    "name": "Co-Workers",
+                    "description": "Romantic or interpersonal relationships formed between colleagues or coworkers.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Workplace Romance",
+                        "Office Love"
+                    ]
+                },
+                {
+                    "name": "Cute Story",
+                    "description": "The story emphasizes lighthearted, charming, or endearing romantic interactions.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Heartwarming Romance",
+                        "Adorable Relationships"
+                    ]
+                },
+                {
+                    "name": "Doting Older Siblings",
+                    "description": "Older siblings show affectionate or protective behavior, potentially including romantic tension in some contexts.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Protective Sibling",
+                        "Affectionate Brother/Sister"
+                    ]
+                },
+                {
+                    "name": "Doting Parents",
+                    "description": "Parental affection may impact romantic dynamics or character relationships.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Loving Parents",
+                        "Overprotective Parents"
+                    ]
+                },
+                {
+                    "name": "Enemies Become Allies",
+                    "description": "Romantic or interpersonal relationships develop from rivalry or conflict.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Rivals to Lovers",
+                        "Conflict Romance"
+                    ]
+                },
+                {
+                    "name": "First Love",
+                    "description": "The story focuses on a protagonist experiencing their first romantic feelings.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Initial Romance",
+                        "First Crush"
+                    ]
+                },
+                {
+                    "name": "Long-distance Relationship",
+                    "description": "Characters maintain a romantic connection while being physically separated.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Distant Romance",
+                        "Separated Lovers"
+                    ]
+                },
+                {
+                    "name": "Persistent Love Interests",
+                    "description": "Romantic characters remain committed or actively pursue the protagonist.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Unwavering Admirer",
+                        "Dedicated Lover"
+                    ]
+                },
+                {
+                    "name": "Seduction",
+                    "description": "Romantic or sexual pursuit is used as a plot element between characters.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Flirtation",
+                        "Temptation"
+                    ]
+                },
+                {
+                    "name": "Senpai-Kouhai Relationship",
+                    "description": "Romantic or mentorship dynamics develop between senior and junior characters.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Mentor-Student Romance",
+                        "Senpai-Love"
+                    ]
+                },
+                {
+                    "name": "Smart Couple",
+                    "description": "A pair of characters forms a mutually intelligent or complementary romantic relationship.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Clever Duo",
+                        "Brainy Pair"
+                    ]
+                },
+                {
+                    "name": "Straight Seme",
+                    "description": "In yaoi/BL dynamics, the dominant or assertive partner in the relationship.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Dominant Partner",
+                        "Top"
+                    ]
+                },
+                {
+                    "name": "Straight Uke",
+                    "description": "In yaoi/BL dynamics, the submissive or passive partner in the relationship.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Submissive Partner",
+                        "Bottom"
+                    ]
+                },
+                {
+                    "name": "Yandere",
+                    "description": "A character whose romantic obsession may become possessive or violent.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Obsessive Lover",
+                        "Dangerous Love"
+                    ]
+                },
+                {
+                    "name": "Younger Love Interests",
+                    "description": "Romantic relationships with partners who are younger than the protagonist.",
+                    "type": "Relationships & Romance",
+                    "synonyms": [
+                        "Younger Partner",
+                        "Junior Lover"
                     ]
                 }
             ]
@@ -2216,6 +2785,177 @@
                         "Legendary Lore",
                         "Mythical Elements"
                     ]
+                },
+                {
+                    "name": "Amusement Park",
+                    "description": "A story or scene set within a theme park or recreational area.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Theme Park",
+                        "Carnival Setting"
+                    ]
+                },
+                {
+                    "name": "ASOIAF",
+                    "description": "A setting inspired by the world of 'A Song of Ice and Fire' novels.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Game of Thrones World",
+                        "Westeros"
+                    ]
+                },
+                {
+                    "name": "Based on an Anime",
+                    "description": "The story is set in a world adapted from an anime series.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Anime Adaptation World",
+                        "Anime Universe"
+                    ]
+                },
+                {
+                    "name": "Bleach",
+                    "description": "A setting inspired by the Bleach anime/manga universe.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Soul Society World",
+                        "Bleach Universe"
+                    ]
+                },
+                {
+                    "name": "DC",
+                    "description": "A setting based on the DC Comics universe.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "DC Universe",
+                        "Gotham/Metropolis"
+                    ]
+                },
+                {
+                    "name": "Dragon Ball",
+                    "description": "A story world inspired by Dragon Ball series.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "DB Universe",
+                        "Dragon World"
+                    ]
+                },
+                {
+                    "name": "Dungeons",
+                    "description": "The story takes place in labyrinthine structures, often with traps or monsters.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Maze",
+                        "Underground Labyrinth"
+                    ]
+                },
+                {
+                    "name": "Economics",
+                    "description": "The world includes political, financial, or trade systems central to the story.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Economic System",
+                        "Trade-based World"
+                    ]
+                },
+                {
+                    "name": "Cyberpunk",
+                    "description": "A futuristic, high-tech setting often combined with dystopian or societal collapse elements.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Futuristic Dystopia",
+                        "High-tech Society"
+                    ]
+                },
+                {
+                    "name": "Folklore",
+                    "description": "The story is set in a world inspired by myths, legends, or traditional tales.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Mythical Setting",
+                        "Legendary World"
+                    ]
+                },
+                {
+                    "name": "Harry Potter",
+                    "description": "A magical setting inspired by the Harry Potter universe.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Wizarding World",
+                        "Hogwarts Setting"
+                    ]
+                },
+                {
+                    "name": "Heaven",
+                    "description": "A divine, celestial realm often tied to gods or afterlife concepts.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Celestial Realm",
+                        "Paradise"
+                    ]
+                },
+                {
+                    "name": "Hell",
+                    "description": "An underworld or infernal realm associated with punishment or demons.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Underworld",
+                        "Inferno"
+                    ]
+                },
+                {
+                    "name": "Hunter x Hunter",
+                    "description": "A world inspired by the Hunter x Hunter universe.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "HxH World",
+                        "Hunter World"
+                    ]
+                },
+                {
+                    "name": "My Hero Academia",
+                    "description": "A world inspired by the My Hero Academia universe.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "MHA World",
+                        "Hero Society"
+                    ]
+                },
+                {
+                    "name": "Naruto",
+                    "description": "A story world inspired by the Naruto universe.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Naruto Universe",
+                        "Ninja World"
+                    ]
+                },
+                {
+                    "name": "One Piece",
+                    "description": "A world inspired by the One Piece universe.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "OP World",
+                        "Pirate World"
+                    ]
+                },
+                {
+                    "name": "Pokémon",
+                    "description": "A setting based on the Pokémon universe with creatures, battles, and trainers.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "Pokémon World",
+                        "Pokémon Universe"
+                    ]
+                },
+                {
+                    "name": "Warhammer 40K",
+                    "description": "A futuristic, war-torn universe inspired by Warhammer 40K.",
+                    "type": "World & Setting",
+                    "synonyms": [
+                        "WH40K Universe",
+                        "Imperium Setting"
+                    ]
                 }
             ]
         },
@@ -2668,6 +3408,78 @@
                         "Holy Figures",
                         "Divine Beings"
                     ]
+                },
+                {
+                    "name": "Aliens",
+                    "description": "Extraterrestrial beings featured in the story.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Extraterrestrials",
+                        "Alien Lifeforms"
+                    ]
+                },
+                {
+                    "name": "Androgynous Characters",
+                    "description": "Characters with ambiguous or mixed gender traits.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Gender-ambiguous Characters",
+                        "Non-binary Characters"
+                    ]
+                },
+                {
+                    "name": "Familiars",
+                    "description": "Companion creatures bound to a character to aid in magic or combat.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Spirit Companion",
+                        "Magical Pet"
+                    ]
+                },
+                {
+                    "name": "Golems",
+                    "description": "Magical constructs or animated beings made from materials like stone or clay.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Animated Construct",
+                        "Magical Automaton"
+                    ]
+                },
+                {
+                    "name": "Homunculus",
+                    "description": "Artificially created humanoid beings, often from alchemy.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Artificial Human",
+                        "Created Being"
+                    ]
+                },
+                {
+                    "name": "Incubus",
+                    "description": "A male demon or supernatural being that preys on humans, often in dreams.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Male Demon",
+                        "Night Demon"
+                    ]
+                },
+                {
+                    "name": "Jiangshi",
+                    "description": "A reanimated corpse or hopping vampire from folklore.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Chinese Vampire",
+                        "Hopping Corpse"
+                    ]
+                },
+                {
+                    "name": "Dwarfs",
+                    "description": "A species of small humanoid beings, often skilled in craftsmanship and mining.",
+                    "type": "Creatures & Species",
+                    "synonyms": [
+                        "Dwarves",
+                        "Short Humanoids"
+                    ]
                 }
             ]
         },
@@ -2933,6 +3745,42 @@
                     "synonyms": [
                         "Apothecary",
                         "Medical Chemist"
+                    ]
+                },
+                {
+                    "name": "Cyberpunk",
+                    "description": "A futuristic setting featuring advanced technology, cybernetics, and dystopian elements.",
+                    "type": "Technology & Sci-Fi",
+                    "synonyms": [
+                        "High-tech Dystopia",
+                        "Futuristic Society"
+                    ]
+                },
+                {
+                    "name": "Game Of Thrones",
+                    "description": "While primarily fantasy, can include alternate history or technologically inspired reinterpretations.",
+                    "type": "Technology & Sci-Fi",
+                    "synonyms": [
+                        "ASOIAF Tech Adaptation",
+                        "GoT Alternate World"
+                    ]
+                },
+                {
+                    "name": "Non-linear Storytelling",
+                    "description": "Use of advanced narrative techniques, often linked with sci-fi or virtual world mechanics.",
+                    "type": "Technology & Sci-Fi",
+                    "synonyms": [
+                        "Time-jumping Narrative",
+                        "Fragmented Story"
+                    ]
+                },
+                {
+                    "name": "Time Travel",
+                    "description": "The plot involves characters moving backward or forward through time using technology or magic.",
+                    "type": "Technology & Sci-Fi",
+                    "synonyms": [
+                        "Temporal Travel",
+                        "Chrono Shifts"
                     ]
                 }
             ]
@@ -3240,6 +4088,78 @@
                     "synonyms": [
                         "Tactical Warfare",
                         "Battle Planning"
+                    ]
+                },
+                {
+                    "name": "Bodyguards",
+                    "description": "Characters organized as protectors for important individuals or groups.",
+                    "type": "Organizations & Factions",
+                    "synonyms": [
+                        "Protective Team",
+                        "Security Force"
+                    ]
+                },
+                {
+                    "name": "Business Management",
+                    "description": "Organizations or companies involved in commerce, trade, or leadership roles.",
+                    "type": "Organizations & Factions",
+                    "synonyms": [
+                        "Corporate Organization",
+                        "Company"
+                    ]
+                },
+                {
+                    "name": "Contracts",
+                    "description": "Formal agreements or pacts between groups, factions, or individuals driving story conflict.",
+                    "type": "Organizations & Factions",
+                    "synonyms": [
+                        "Pacts",
+                        "Agreements"
+                    ]
+                },
+                {
+                    "name": "Gangs",
+                    "description": "Criminal organizations or groups that influence plot and character relationships.",
+                    "type": "Organizations & Factions",
+                    "synonyms": [
+                        "Crime Syndicate",
+                        "Mob Group"
+                    ]
+                },
+                {
+                    "name": "Guilds",
+                    "description": "Groups or associations of people with common skills or goals, often seen in fantasy or game-like settings.",
+                    "type": "Organizations & Factions",
+                    "synonyms": [
+                        "Professional Association",
+                        "Faction"
+                    ]
+                },
+                {
+                    "name": "Military",
+                    "description": "Organized armed forces or armies that impact the story’s conflicts.",
+                    "type": "Organizations & Factions",
+                    "synonyms": [
+                        "Armed Forces",
+                        "Soldier Organization"
+                    ]
+                },
+                {
+                    "name": "Secret Organizations",
+                    "description": "Hidden groups that manipulate events behind the scenes.",
+                    "type": "Organizations & Factions",
+                    "synonyms": [
+                        "Shadow Group",
+                        "Hidden Faction"
+                    ]
+                },
+                {
+                    "name": "Student Council",
+                    "description": "School-based governing bodies or leadership groups impacting the story.",
+                    "type": "Organizations & Factions",
+                    "synonyms": [
+                        "School Leaders",
+                        "Academic Faction"
                     ]
                 }
             ]
@@ -3637,6 +4557,60 @@
                         "Deceptive Character",
                         "Prankster"
                     ]
+                },
+                {
+                    "name": "Aggressive Characters",
+                    "description": "The story features characters with confrontational or forceful personalities, impacting tone.",
+                    "type": "Tone & Themes",
+                    "synonyms": [
+                        "Hot-headed Characters",
+                        "Fierce Characters"
+                    ]
+                },
+                {
+                    "name": "Dark Themes",
+                    "description": "The narrative explores mature, grim, or unsettling topics.",
+                    "type": "Tone & Themes",
+                    "synonyms": [
+                        "Gritty",
+                        "Somber"
+                    ]
+                },
+                {
+                    "name": "Comedy",
+                    "description": "The story emphasizes humor and lighthearted situations.",
+                    "type": "Tone & Themes",
+                    "synonyms": [
+                        "Humor",
+                        "Funny Scenes"
+                    ]
+                },
+                {
+                    "name": "Trickster",
+                    "description": "Characters or plot elements involve deception, cleverness, or playful mischief.",
+                    "type": "Tone & Themes",
+                    "synonyms": [
+                        "Deceptive Characters",
+                        "Clever Antics"
+                    ]
+                },
+                {
+                    "name": "Mystery Solving",
+                    "description": "The narrative involves uncovering secrets, puzzles, or hidden truths.",
+                    "type": "Tone & Themes",
+                    "synonyms": [
+                        "Investigation",
+                        "Detective Work"
+                    ]
+                },
+                {
+                    "name": "Strategic Battles",
+                    "description": "The story emphasizes planning, tactics, and careful maneuvers in conflicts.",
+                    "type": "Tone & Themes",
+                    "synonyms": [
+                        "Tactical Combat",
+                        "Battle Strategy"
+                    ]
                 }
             ]
         },
@@ -3993,6 +4967,109 @@
                         "Submissives",
                         "Sexual Servants"
                     ]
+                },
+                {
+                    "name": "Adultery",
+                    "description": "Romantic or sexual relationships outside of committed partnerships.",
+                    "type": "Adult/Explicit",
+                    "synonyms": [
+                        "Cheating",
+                        "Infidelity"
+                    ]
+                },
+                {
+                    "name": "Affair",
+                    "description": "Secret or illicit romantic involvement between characters.",
+                    "type": "Adult/Explicit",
+                    "synonyms": [
+                        "Secret Romance",
+                        "Extramarital Relationship"
+                    ]
+                },
+                {
+                    "name": "Blackmail",
+                    "description": "Sexual or intimate content used for coercion or manipulation.",
+                    "type": "Adult/Explicit",
+                    "synonyms": [
+                        "Coercion",
+                        "Manipulative Threat"
+                    ]
+                },
+                {
+                    "name": "Cannibalism",
+                    "description": "Sexualized or adult depictions involving consumption of humans.",
+                    "type": "Adult/Explicit",
+                    "synonyms": [
+                        "Eating Humans",
+                        "Anthropophagy"
+                    ]
+                },
+                {
+                    "name": "Futanari",
+                    "description": "Characters possessing both male and female sexual characteristics.",
+                    "type": "Adult/Explicit",
+                    "synonyms": [
+                        "Hermaphrodite Characters"
+                    ]
+                },
+                {
+                    "name": "Prostit**es",
+                    "description": "Characters involved in sexual services or activities for compensation.",
+                    "type": "Adult/Explicit",
+                    "synonyms": [
+                        "Sex Workers",
+                        "Courtesans"
+                    ]
+                },
+                {
+                    "name": "M*sturbation",
+                    "description": "Explicit depictions of self-pleasure.",
+                    "type": "Adult/Explicit",
+                    "synonyms": [
+                        "Self-Stimulation"
+                    ]
+                },
+                {
+                    "name": "S*ave Harem",
+                    "description": "Adult content featuring submissive characters in a harem setup.",
+                    "type": "Adult/Explicit",
+                    "synonyms": [
+                        "Submissive Harem"
+                    ]
+                },
+                {
+                    "name": "S*ave Protagonist",
+                    "description": "Main character is in a submissive sexual role.",
+                    "type": "Adult/Explicit",
+                    "synonyms": [
+                        "Submissive MC"
+                    ]
+                },
+                {
+                    "name": "S*aves",
+                    "description": "Submissive characters included in sexualized group dynamics.",
+                    "type": "Adult/Explicit",
+                    "synonyms": [
+                        "Submissive Characters"
+                    ]
+                },
+                {
+                    "name": "Exhibitionism",
+                    "description": "Characters engage in sexually provocative behavior publicly or semi-publicly.",
+                    "type": "Adult/Explicit",
+                    "synonyms": [
+                        "Flashing",
+                        "Public Nudity"
+                    ]
+                },
+                {
+                    "name": "Voyeurism",
+                    "description": "Adult content featuring characters observing sexual acts.",
+                    "type": "Adult/Explicit",
+                    "synonyms": [
+                        "Peeping",
+                        "Watching Others"
+                    ]
                 }
             ]
         },
@@ -4110,6 +5187,42 @@
                     "synonyms": [
                         "Sword Fighter",
                         "Blade User"
+                    ]
+                },
+                {
+                    "name": "Magic Formations",
+                    "description": "Structured magical or system-based techniques that function like game mechanics.",
+                    "type": "Game & System",
+                    "synonyms": [
+                        "Spell Arrays",
+                        "Ritual Grids"
+                    ]
+                },
+                {
+                    "name": "Monster Society",
+                    "description": "A structured society of monsters, often with levels, classes, or ranking systems.",
+                    "type": "Game & System",
+                    "synonyms": [
+                        "Monster Hierarchy",
+                        "Monster Guild"
+                    ]
+                },
+                {
+                    "name": "Monster Tamer",
+                    "description": "A protagonist or character uses creatures in a structured system akin to game mechanics.",
+                    "type": "Game & System",
+                    "synonyms": [
+                        "Beast Tamer",
+                        "Creature Trainer"
+                    ]
+                },
+                {
+                    "name": "Pokémon",
+                    "description": "Use of a creature-catching and battling system inspired by Pokémon mechanics.",
+                    "type": "Game & System",
+                    "synonyms": [
+                        "Creature Battle System",
+                        "Monster Collecting"
                     ]
                 }
             ]
@@ -4565,6 +5678,87 @@
                         "Hidden Information",
                         "Confidential Knowledge"
                     ]
+                },
+                {
+                    "name": "Dead Protagonist",
+                    "description": "The story begins with or includes a protagonist who has died, impacting narrative progression.",
+                    "type": "Plot Devices",
+                    "synonyms": [
+                        "Deceased MC",
+                        "Past-life Protagonist"
+                    ]
+                },
+                {
+                    "name": "Former Hero",
+                    "description": "A character who was once a hero but has since fallen or retired, driving the plot.",
+                    "type": "Plot Devices",
+                    "synonyms": [
+                        "Ex-Hero",
+                        "Retired Hero"
+                    ]
+                },
+                {
+                    "name": "Episodic",
+                    "description": "The narrative is structured as self-contained episodes, affecting pacing and plot development.",
+                    "type": "Plot Devices",
+                    "synonyms": [
+                        "Chapter-based Story",
+                        "Segmented Plot"
+                    ]
+                },
+                {
+                    "name": "Interconnected Storylines",
+                    "description": "Multiple narratives or character arcs intersect to form a cohesive plot.",
+                    "type": "Plot Devices",
+                    "synonyms": [
+                        "Multi-arc Story",
+                        "Linked Plots"
+                    ]
+                },
+                {
+                    "name": "Non-linear Storytelling",
+                    "description": "The narrative is presented out of chronological order as a storytelling device.",
+                    "type": "Plot Devices",
+                    "synonyms": [
+                        "Time-jumping Narrative",
+                        "Fragmented Story"
+                    ]
+                },
+                {
+                    "name": "Secrets",
+                    "description": "Hidden truths, mysteries, or information that drive character decisions and plot twists.",
+                    "type": "Plot Devices",
+                    "synonyms": [
+                        "Hidden Truths",
+                        "Mysteries"
+                    ]
+                },
+                {
+                    "name": "Secret Identity",
+                    "description": "A character conceals their true identity, often driving suspense or conflict.",
+                    "type": "Plot Devices",
+                    "synonyms": [
+                        "Hidden Persona",
+                        "Masked Identity"
+                    ]
+                },
+                {
+                    "name": "Mystery Solving",
+                    "description": "The plot revolves around uncovering hidden information or solving puzzles.",
+                    "type": "Plot Devices",
+                    "synonyms": [
+                        "Detective Work",
+                        "Investigation"
+                    ]
+                },
+                {
+                    "name": "Mysterious Past",
+                    "description": "A character’s unknown or hidden history serves as a plot element.",
+                    "type": "Plot Devices",
+                    "synonyms": [
+                        "Hidden Background",
+                        "Unknown History"
+                    ]
                 }
             ]
         },
@@ -4917,6 +6111,142 @@
                     "synonyms": [
                         "Chef Skills",
                         "Culinary Talent"
+                    ]
+                },
+                {
+                    "name": "Archery",
+                    "description": "Characters specialize in archery as their primary skill or occupation.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Bowmanship",
+                        "Archer"
+                    ]
+                },
+                {
+                    "name": "Astrologers",
+                    "description": "Characters who study or practice astrology, often influencing plot through predictions.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Seer",
+                        "Star Reader"
+                    ]
+                },
+                {
+                    "name": "Blacksmith",
+                    "description": "Characters who craft weapons, armor, or tools as their profession.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Smith",
+                        "Weapon Crafter"
+                    ]
+                },
+                {
+                    "name": "Bodyguards",
+                    "description": "Professionals tasked with protecting other characters or important figures.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Protectors",
+                        "Security Personnel"
+                    ]
+                },
+                {
+                    "name": "Co-Workers",
+                    "description": "Characters who share a workplace or professional environment.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Colleagues",
+                        "Office Staff"
+                    ]
+                },
+                {
+                    "name": "Dancers",
+                    "description": "Characters whose profession or talent involves dance.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Performer",
+                        "Ballerina/Ballet Dancer"
+                    ]
+                },
+                {
+                    "name": "Engineer",
+                    "description": "Characters involved in building, designing, or managing technology or structures.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Technician",
+                        "Inventor"
+                    ]
+                },
+                {
+                    "name": "Healers",
+                    "description": "Characters whose role involves medical, magical, or spiritual healing.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Medic",
+                        "Doctor",
+                        "Cleric"
+                    ]
+                },
+                {
+                    "name": "Herbalist",
+                    "description": "Professionals skilled in plants and herbs for medicine or magic.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Potion Maker",
+                        "Herb Specialist"
+                    ]
+                },
+                {
+                    "name": "Knights",
+                    "description": "Characters with noble or military duties often involving combat or protection.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Paladin",
+                        "Warrior"
+                    ]
+                },
+                {
+                    "name": "Merchants",
+                    "description": "Characters involved in trade, commerce, or business.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Trader",
+                        "Shopkeeper"
+                    ]
+                },
+                {
+                    "name": "Nurses",
+                    "description": "Medical professionals providing care for characters.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Medical Staff",
+                        "Caregiver"
+                    ]
+                },
+                {
+                    "name": "Photographers",
+                    "description": "Characters who capture images professionally or as a hobby, impacting story events.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Camera Operator",
+                        "Shutterbug"
+                    ]
+                },
+                {
+                    "name": "Store Owner",
+                    "description": "Characters who run a shop or business central to the plot.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Shopkeeper",
+                        "Proprietor"
+                    ]
+                },
+                {
+                    "name": "Student-Teacher Relationship",
+                    "description": "Roles highlighting the dynamic between instructor and pupil, often driving plot or romance.",
+                    "type": "Occupation & Roles",
+                    "synonyms": [
+                        "Mentor-Student",
+                        "Teacher-Student"
                     ]
                 }
             ]
@@ -5292,6 +6622,114 @@
                         "Spirit Purification",
                         "Demon Banishment"
                     ]
+                },
+                {
+                    "name": "Anti-Heo",
+                    "description": "A protagonist who deliberately subverts traditional heroic ideals or behaves in morally ambiguous ways.",
+                    "type": "Power & Abilities",
+                    "synonyms": [
+                        "Anti-Hero",
+                        "Morally Grey MC"
+                    ]
+                },
+                {
+                    "name": "Cunning Protagonist",
+                    "description": "The main character relies on intelligence, strategy, and cleverness rather than brute strength.",
+                    "type": "Power & Abilities",
+                    "synonyms": [
+                        "Strategic MC",
+                        "Trickster MC"
+                    ]
+                },
+                {
+                    "name": "Fearless Protagonist",
+                    "description": "A main character who shows exceptional courage and rarely succumbs to fear.",
+                    "type": "Power & Abilities",
+                    "synonyms": [
+                        "Brave MC",
+                        "Dauntless Hero"
+                    ]
+                },
+                {
+                    "name": "Helpful Protagonist",
+                    "description": "The main character frequently aids others, often enhancing story development or alliances.",
+                    "type": "Power & Abilities",
+                    "synonyms": [
+                        "Supportive MC",
+                        "Altruistic Hero"
+                    ]
+                },
+                {
+                    "name": "Male Yandere",
+                    "description": "A male character exhibits obsessive, possessive, and often violent tendencies toward a love interest.",
+                    "type": "Power & Abilities",
+                    "synonyms": [
+                        "Obsessive Male",
+                        "Possessive Male Character"
+                    ]
+                },
+                {
+                    "name": "Male to Female",
+                    "description": "A character experiences a gender transformation from male to female, often with unique abilities or traits.",
+                    "type": "Power & Abilities",
+                    "synonyms": [
+                        "Gender Swap MC",
+                        "Transformed Male Character"
+                    ]
+                },
+                {
+                    "name": "Narcissistic Protagonist",
+                    "description": "A main character with an excessive sense of self-importance, affecting choices and relationships.",
+                    "type": "Power & Abilities",
+                    "synonyms": [
+                        "Egoistic MC",
+                        "Self-absorbed Hero"
+                    ]
+                },
+                {
+                    "name": "Protagonist Strong from the Start",
+                    "description": "The main character possesses significant power or skills from the beginning of the story.",
+                    "type": "Power & Abilities",
+                    "synonyms": [
+                        "Overpowered MC",
+                        "Innately Powerful Hero"
+                    ]
+                },
+                {
+                    "name": "Quirky Characters",
+                    "description": "Characters display eccentric, unusual, or distinctive traits affecting abilities or interactions.",
+                    "type": "Power & Abilities",
+                    "synonyms": [
+                        "Eccentric Characters",
+                        "Unique Personality Traits"
+                    ]
+                },
+                {
+                    "name": "Righteous Protagonist",
+                    "description": "A main character guided by strong moral principles, often influencing story events.",
+                    "type": "Power & Abilities",
+                    "synonyms": [
+                        "Virtuous MC",
+                        "Principled Hero"
+                    ]
+                },
+                {
+                    "name": "Strategist",
+                    "description": "A character excels in planning, tactics, and analyzing situations to gain advantage.",
+                    "type": "Power & Abilities",
+                    "synonyms": [
+                        "Tactical Genius",
+                        "Master Planner"
+                    ]
+                },
+                {
+                    "name": "Strong Background",
+                    "description": "The character has a powerful lineage, history, or foundation that enhances their abilities.",
+                    "type": "Power & Abilities",
+                    "synonyms": [
+                        "Influential Lineage",
+                        "Prestigious Heritage"
+                    ]
                 }
             ]
         },
@@ -5455,6 +6893,105 @@
                     "synonyms": [
                         "Rich Characters",
                         "High-Class Characters"
+                    ]
+                },
+                {
+                    "name": "Based on an Anime",
+                    "description": "The story is adapted from or inspired by an anime series.",
+                    "type": "Publication & Format",
+                    "synonyms": [
+                        "Anime Adaptation",
+                        "Anime Source Material"
+                    ]
+                },
+                {
+                    "name": "ASOIAF",
+                    "description": "The story is based on or inspired by A Song of Ice and Fire series.",
+                    "type": "Publication & Format",
+                    "synonyms": [
+                        "A Song of Ice and Fire Adaptation",
+                        "Game of Thrones Source"
+                    ]
+                },
+                {
+                    "name": "Bleach",
+                    "description": "The story is adapted from or inspired by the Bleach manga/anime series.",
+                    "type": "Publication & Format",
+                    "synonyms": [
+                        "Bleach Adaptation",
+                        "Bleach Source Material"
+                    ]
+                },
+                {
+                    "name": "DC",
+                    "description": "The story is inspired by DC Comics properties.",
+                    "type": "Publication & Format",
+                    "synonyms": [
+                        "DC Comics Adaptation",
+                        "DC Universe Source"
+                    ]
+                },
+                {
+                    "name": "Dragon Ball",
+                    "description": "The story is adapted from or inspired by the Dragon Ball franchise.",
+                    "type": "Publication & Format",
+                    "synonyms": [
+                        "Dragon Ball Adaptation",
+                        "DB Source Material"
+                    ]
+                },
+                {
+                    "name": "Game Of Thrones",
+                    "description": "The story draws elements from the Game of Thrones franchise.",
+                    "type": "Publication & Format",
+                    "synonyms": [
+                        "GOT Adaptation",
+                        "ASOIAF Source"
+                    ]
+                },
+                {
+                    "name": "Harry Potter",
+                    "description": "The story is inspired by or adapted from the Harry Potter series.",
+                    "type": "Publication & Format",
+                    "synonyms": [
+                        "HP Adaptation",
+                        "Wizarding World Source"
+                    ]
+                },
+                {
+                    "name": "Hunter x Hunter",
+                    "description": "The story is inspired by or adapted from Hunter x Hunter.",
+                    "type": "Publication & Format",
+                    "synonyms": [
+                        "HxH Adaptation",
+                        "Hunter x Hunter Source"
+                    ]
+                },
+                {
+                    "name": "My Hero Academia",
+                    "description": "The story is inspired by or adapted from My Hero Academia.",
+                    "type": "Publication & Format",
+                    "synonyms": [
+                        "MHA Adaptation",
+                        "Boku no Hero Academia Source"
+                    ]
+                },
+                {
+                    "name": "Naruto",
+                    "description": "The story is adapted from or inspired by the Naruto series.",
+                    "type": "Publication & Format",
+                    "synonyms": [
+                        "Naruto Adaptation",
+                        "Naruto Source Material"
+                    ]
+                },
+                {
+                    "name": "One Piece",
+                    "description": "The story is inspired by or adapted from One Piece.",
+                    "type": "Publication & Format",
+                    "synonyms": [
+                        "One Piece Adaptation",
+                        "OP Source Material"
                     ]
                 }
             ]
