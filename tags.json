@@ -354,44 +354,42 @@
                         "Enchanted Items"
                     ]
                 },
-                [
-                    {
-                        "name": "Demonic Cultivation Technique",
-                        "description": "A cultivation method that draws upon demonic or dark energies to gain power.",
-                        "type": "Magic System",
-                        "synonyms": [
-                            "Dark Cultivation",
-                            "Evil Cultivation"
-                        ]
-                    },
-                    {
-                        "name": "Daoism",
-                        "description": "A spiritual and philosophical system influencing cultivation and balance in mystical arts.",
-                        "type": "Magic System",
-                        "synonyms": [
-                            "Taoism",
-                            "Way of the Dao"
-                        ]
-                    },
-                    {
-                        "name": "Feng Shui",
-                        "description": "The manipulation of natural energies and environments to create harmony or enhance magical effects.",
-                        "type": "Magic System",
-                        "synonyms": [
-                            "Geomancy",
-                            "Qi Flow"
-                        ]
-                    },
-                    {
-                        "name": "Magic Formations",
-                        "description": "Magical or energy-based arrays that serve as barriers, traps, or enhancement structures.",
-                        "type": "Magic System",
-                        "synonyms": [
-                            "Magical Arrays",
-                            "Spirit Formations"
-                        ]
-                    }
-                ]
+                {
+                    "name": "Demonic Cultivation Technique",
+                    "description": "A cultivation method that draws upon demonic or dark energies to gain power.",
+                    "type": "Magic System",
+                    "synonyms": [
+                        "Dark Cultivation",
+                        "Evil Cultivation"
+                    ]
+                },
+                {
+                    "name": "Daoism",
+                    "description": "A spiritual and philosophical system influencing cultivation and balance in mystical arts.",
+                    "type": "Magic System",
+                    "synonyms": [
+                        "Taoism",
+                        "Way of the Dao"
+                    ]
+                },
+                {
+                    "name": "Feng Shui",
+                    "description": "The manipulation of natural energies and environments to create harmony or enhance magical effects.",
+                    "type": "Magic System",
+                    "synonyms": [
+                        "Geomancy",
+                        "Qi Flow"
+                    ]
+                },
+                {
+                    "name": "Magic Formations",
+                    "description": "Magical or energy-based arrays that serve as barriers, traps, or enhancement structures.",
+                    "type": "Magic System",
+                    "synonyms": [
+                        "Magical Arrays",
+                        "Spirit Formations"
+                    ]
+                }
             ]
         },
         "Character Background": {
